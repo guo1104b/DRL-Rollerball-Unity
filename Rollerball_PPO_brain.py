@@ -13,7 +13,6 @@ tensorlayer >=2.0.0
 mlagents_envs >=0.27.0  [https://github.com/Unity-Technologies/ml-agents]
 """
 
-import argparse
 import os
 import numpy as np
 import tensorflow as tf
